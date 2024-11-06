@@ -1547,7 +1547,7 @@ img {
 }
 
 /* Responsive design */
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 426px) {
     .footer__content {
         grid-template-columns: 1fr;
     }
